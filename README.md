@@ -28,3 +28,7 @@ npm run dev
 | [REST API](https://github.com/alex-kzr/oxidium-forge/blob/main/docs/api/rest-api.md) | Core API the UI talks to |
 | [Architecture](https://github.com/alex-kzr/oxidium-forge/blob/main/docs/architecture/system-design.md) | System overview |
 | [BPMN Support Matrix](https://github.com/alex-kzr/oxidium-forge/blob/main/docs/bpmn-elements/README.md) | Supported BPMN elements |
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE.md](./LICENSE.md)
